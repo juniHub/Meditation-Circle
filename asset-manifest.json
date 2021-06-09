@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://junihub.github.io/csb-jg6cl/static/css/main.eb8dd1db.chunk.css",
+    "main.js": "https://junihub.github.io/csb-jg6cl/static/js/main.6d9d504e.chunk.js",
+    "main.js.map": "https://junihub.github.io/csb-jg6cl/static/js/main.6d9d504e.chunk.js.map",
+    "runtime-main.js": "https://junihub.github.io/csb-jg6cl/static/js/runtime-main.f1c8026a.js",
+    "runtime-main.js.map": "https://junihub.github.io/csb-jg6cl/static/js/runtime-main.f1c8026a.js.map",
+    "static/js/2.6b56245c.chunk.js": "https://junihub.github.io/csb-jg6cl/static/js/2.6b56245c.chunk.js",
+    "static/js/2.6b56245c.chunk.js.map": "https://junihub.github.io/csb-jg6cl/static/js/2.6b56245c.chunk.js.map",
+    "index.html": "https://junihub.github.io/csb-jg6cl/index.html",
+    "static/css/main.eb8dd1db.chunk.css.map": "https://junihub.github.io/csb-jg6cl/static/css/main.eb8dd1db.chunk.css.map",
+    "static/js/2.6b56245c.chunk.js.LICENSE.txt": "https://junihub.github.io/csb-jg6cl/static/js/2.6b56245c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1c8026a.js",
+    "static/js/2.6b56245c.chunk.js",
+    "static/css/main.eb8dd1db.chunk.css",
+    "static/js/main.6d9d504e.chunk.js"
+  ]
+}
